@@ -1,3 +1,6 @@
+<h1 align='center'> Hi there! Welcome to my Github <img src="https://github.com/btwhelena/btwhelena/blob/main/images/wave.gif?raw=true" width="30px"> </h1>
+
+## About me
 
 ## Languages
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
