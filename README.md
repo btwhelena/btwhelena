@@ -2,9 +2,7 @@
 ## Skills
 
 
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwhelena&show_icons=true&theme=moltack)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btwhelena&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwhelena&show_icons=true&theme=moltack) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btwhelena&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main Repositories
 
