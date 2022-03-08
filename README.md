@@ -1,10 +1,10 @@
 <h1 align='center'> Hi there! Welcome to my Github <img src="https://github.com/btwhelena/btwhelena/blob/main/images/wave.gif?raw=true" width="30px"> </h1>
 
 ## About me
--🎂 I'm 22.
--💻 I want to be an iOS developer. I'm currently very focused on studying Swift and Objetive-C.
--👾 I really like animes and videogames.
--🌸 I love meeting new people, new places and sharing knowledge.
+🎂 I'm 22. <br>
+💻 I want to be an iOS developer. I'm currently very focused on studying Swift and Objetive-C. <br>
+👾 I really like animes and videogames. <br>
+🌸 I love meeting new people, new places and sharing knowledge. <br>
 
 
 ## Languages
