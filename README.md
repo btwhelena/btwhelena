@@ -26,4 +26,5 @@
 
 ## Main Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Learning-Swift&theme=moltack)](https://github.com/btwhelena/Learning-Swift)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Twitter&theme=moltack)](https://github.com/btwhelena/Twitter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Learning-Swift&theme=moltack)](https://github.com/btwhelena/Learning-Swift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Twitter&theme=moltack)](https://github.com/btwhelena/Twitter)
