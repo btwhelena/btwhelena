@@ -22,8 +22,8 @@
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/yappari_chan)
 
 
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwhelena&show_icons=true&theme=moltack)
+![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwhelena&show_icons=true&theme=buefy)
 
 ## Main Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Swift-Challenge&theme=moltack)](https://github.com/btwhelena/Swift-Challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Learning-Swift&theme=moltack)](https://github.com/btwhelena/Learning-Swift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Swift-Challenge&theme=buefy)](https://github.com/btwhelena/Swift-Challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Learning-Swift&theme=buefy)](https://github.com/btwhelena/Learning-Swift)
