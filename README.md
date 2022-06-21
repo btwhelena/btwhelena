@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there! Welcome to my Github <img src="https://github.com/btwhelena/btwhelena/blob/main/images/wave.gif?raw=true" width="30px"> </h1>
+<h1 align='center'> Hi there! Welcome to my Github 👋🏻 </h1>
 
 ## About me
 🎂 I'm 22. <br>
