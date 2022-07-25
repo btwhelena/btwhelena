@@ -2,7 +2,7 @@
 
 ## About me
 🎂 I'm 22. <br>
-💻 I want to be an iOS developer. I'm currently very focused on studying Swift and Objetive-C. <br>
+💻 I want to be an UX Designer <br>
 👾 I really like animes and videogames. <br>
 🌸 I love meeting new people, new places and sharing knowledge. <br>
 
