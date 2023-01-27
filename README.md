@@ -1,8 +1,8 @@
 <h1 align='center'> Hi there! Welcome to my Github 👋🏻 </h1>
 
 ## About me
-🎂 I'm 22. <br>
-🔮 I want to be an UX Designer. <br>
+🎂 I'm 23. <br>
+🔮 I'm a UX Designer. <br>
 👾 I really like animes and videogames. <br>
 🌸 I love meeting new people, new places and sharing knowledge. <br>
 
