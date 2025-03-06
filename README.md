@@ -1,10 +1,9 @@
 <h1 align='center'> Hi there! Welcome to my Github 👋🏻 </h1>
 
 ## About me
-🎂 I'm 24. <br>
-🔮 I'm a UX Designer. <br>
-👾 I really like animes and videogames. <br>
-🌸 I love meeting new people, new places and sharing knowledge. <br>
+🎂 I'm 25. <br>
+🔮 I'm a Product Designer. <br>
+👾 I love animes, tattoos and videogames. <br>
 
 
 ## Technologies
@@ -16,7 +15,6 @@
 ## Social media
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/helenaoliveirac/)
 [<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='spotify' height='30'>](https://open.spotify.com/user/1n0s9acnseof0jffxxxm6qj2q?si=2534d4b6943e4b2e)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/btwhelena/)
 
 
 ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwhelena&show_icons=true&theme=buefy)
