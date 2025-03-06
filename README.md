@@ -18,10 +18,3 @@
 
 
 ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwhelena&show_icons=true&theme=buefy)
-
-## Main Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=VillagerTracker&theme=buefy)](https://github.com/btwhelena/VillagerTracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Netflix-Clone&theme=buefy)](https://github.com/btwhelena/Netflix-Clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=MyFirstAppChallenge&theme=buefy)](https://github.com/btwhelena/MyFirstAppChallenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btwhelena&repo=Learning-Swift&theme=buefy)](https://github.com/btwhelena/Learning-Swift)
