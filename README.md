@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there! Welcome to my Github 👋🏻 </h1>
 
 ## About me
-🎂 I'm 25. <br>
+🎂 I'm 26. <br>
 🔮 I'm a Product Designer. <br>
 👾 I love animes, tattoos and videogames. <br>
 
